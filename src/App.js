@@ -5,7 +5,7 @@ import React from "react";
 function App() {
   return (
     <div className="App">
-      <h1>Hello rocket programmer let's do some funn</h1>
+      <h1>Hello rocket programmer</h1>
       <div className="app_videos">
         <Video />
         <Video />
