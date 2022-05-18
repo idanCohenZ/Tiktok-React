@@ -19,7 +19,7 @@ function Video() {
     <div className="video">
       <video
         className="video_player"
-        src="https://v16-webapp.tiktok.com/10b3417ad42ca936252766d63c38902f/627d4fc8/video/tos/useast2a/tos-useast2a-ve-0068c004/132e57dbe33647eca356cc5b8e590dff/?a=1988&br=2330&bt=1165&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=eXd.6H.vMyq8ZO9gqwe2NlDhml7Gb&l=202205121219380102452480031C02C6D1&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anBzb3FraW1kNDMzNzczM0ApODY4M2k1ZGVmNzZkOjlpN2dnMGowZjVgLmxgLS1kMTZzczZhMy9eX2MzNl4xYGFgNS06Yw%3D%3D&vl=&vr="
+        src="https://v16-webapp.tiktok.com/ea02884a5cb4f5d28c54673b2ebf002c/627e991a/video/tos/alisg/tos-alisg-pve-0037c001/fa2679d367f54f3c8cd0496760327c0e/?a=1988&br=1776&bt=888&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=eXd.6H.vMyq8ZaD5qwe2N9yQml7Gb&l=2022051311440301024524501118205695&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3lkaDM6ZnJoODMzODczNEApNWg3ZTUzZmVlNzVpNDU8NGdqYTFxcjQwcGdgLS1kMS1zc18wYF80X2IzYy4xYGFjLmI6Yw%3D%3D&vl=&vr="
         alt="content is unavialable"
         loop
         onClick={onVideoPress}

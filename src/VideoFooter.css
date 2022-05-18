@@ -2,4 +2,26 @@
   position: relative;
   bottom: 50px;
   color: white;
+  display: flex;
+}
+
+.VideoFooter_text {
+  flex: 1;
+}
+
+.VideoFooter_record {
+  height: 50px;
+  animation: spinTheRecord infinite 5s linear;
+  /* every 5 seconds it will rotate */
+  filter: invert(1); /*for wwhite color*/
+}
+
+@keyframes spinTheRecord {
+  /* basically it keeps spinning the record */
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(36deg);
+  }
 }
